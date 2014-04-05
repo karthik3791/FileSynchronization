@@ -1,0 +1,14 @@
+INFO - Upload Thread ready
+INFO - Got PULL Request
+INFO - Files in shared folder :
+INFO - EE4210_project.pdf
+INFO - Solutions_MultiThreaded_WebServer.html
+INFO - TCPClient.java
+INFO - Thumbs.db
+INFO - NO PULL
+INFO - Going to sleep for one minute
+INFO - Upload Thread ready
+INFO - Connection lost to the node. Closing the socket.
+INFO - Removed connection from hashmap tracking active upload connections. Now closing socket...
+INFO - Socket closed.
+INFO - Exiting thread
